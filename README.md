@@ -9,3 +9,4 @@ Use as follows (requires nodeJS installed on your system):
 1. Download files in repo
 2. Run "npm i" to install relevant dependencies (axios package)
 3. Run "node app.js <ORG_ID> <SNYK_TOKEN> to find projects that have secrets in them.
+# Find-Secrets-Snyk-Code
