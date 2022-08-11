@@ -1,5 +1,5 @@
 // Script which loops through current/imported Snyk repos to search / find - secrets and passwords in a given org
-
+// Find secretes
 const axios = require("axios");
 const args = process.argv.slice(2);
 const ORG_ID = args[0];
